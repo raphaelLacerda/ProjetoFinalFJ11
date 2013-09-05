@@ -1,0 +1,15 @@
+1 - No arquivo podem existir jogadores repetidos
+	Decis‹o: Na hora de ler, vc ir‡ salvar todos ou j‡ despreza os repetidos?
+	
+2 - Times n‹o podem compartilhar jogador
+3 - Time n‹o pode ter jogador repetido
+4 - Jogadores podem ter o mesmo nome, mas n‹o o mesmo CPF
+
+
+
+
+FUTURO:
+
+1 - Posic‹o.. Ž um atributo ou um tipo de jogador?
+2 - Um jogador pode pedir para trocar de time
+
